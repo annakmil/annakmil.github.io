@@ -12,6 +12,6 @@ Since January 2018, I am an Applied Postdoctoral Fellow in the [Integrated Mathe
 <hr/>
 ### Education
 * Ph.D. in Mathematics, May 2018, [University of Utah](https://www.utah.edu/)
-* B.S. in Applied Mathematics, May 2010, [UNC Chapel Hill](https://www.unc.edu/)
+* B.S. in Mathematics, May 2010, [UNC Chapel Hill](https://www.unc.edu/)
 
 
