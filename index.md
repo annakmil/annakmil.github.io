@@ -2,7 +2,7 @@
 title: 
 feature_text: |
   ## Anna K. Miller
-  Applied Postdoctoral Fellow
+  Integrated Mathematical Oncology Department, Moffitt Cancer Center
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "This."
 aside: true
